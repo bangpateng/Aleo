@@ -40,7 +40,7 @@ sudo apt screen
 ## Open Port
 
 ```
-ufw allow 22 && ufw allow 4130/tcp && ufw status 4180/tcp && ufw enable
+ufw allow 22 && ufw allow 4130/tcp && ufw allow 4180/tcp && ufw enable
 ```
 
 ## Install Rupstup
@@ -79,5 +79,7 @@ Ketik CTRL A Agar Jalan di Screen Karena Lama Ini di Tahap Ini, Untuk Balik Scre
 ```
 ./run-client.sh
 ```
+
+**Note :** Pada Saat Ada Tulisan Logo ALEO Ada Your Address, Itu Salin Aja Addressnya Simpen Bang
 
 ### Done Untuk Saat Ini Hanya Client Saja Yang Jalan, Untuk Buat Wallet dan Runing Prover Next Step Tunggu Pharse 2 (Nanti Tutorial Ini Akan di Update, Bila Sudah Ada Pembaharuan)
