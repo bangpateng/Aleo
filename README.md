@@ -37,6 +37,12 @@ sudo apt install git
 sudo apt screen
 ```
 
+## Clone Repository
+
+```
+git clone https://github.com/AleoHQ/snarkOS.git --depth 1 && cd snarkOS
+```
+
 ## Install Rupstup
 
 ```
