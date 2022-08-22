@@ -37,16 +37,16 @@ sudo apt install git
 sudo apt screen
 ```
 
-## Clone Repository
-
-```
-git clone https://github.com/AleoHQ/snarkOS.git --depth 1 && cd snarkOS
-```
-
 ## Install Rupstup
 
 ```
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+```
+
+## Clone Repository
+
+```
+git clone https://github.com/AleoHQ/snarkOS.git --depth 1 && cd snarkOS
 ```
 
 ## Add Variable
