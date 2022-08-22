@@ -14,7 +14,7 @@
 __snarkOS__ adalah sistem operasi terdesentralisasi untuk aplikasi pribadi. Ini membentuk tulang punggung [ Aleo ](https://aleo.org/) dan
 memungkinkan aplikasi untuk memverifikasi dan menyimpan status dengan cara yang dapat diverifikasi secara publik.
 
-## 2. Ikhtisar
+## 2. Spesifiksi Minimal
 
 Berikut adalah persyaratan **minimum** untuk menjalankan node Aleo:
 
