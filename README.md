@@ -13,13 +13,7 @@
 
 * [1. Ikhtisar](#1-Ikhtisar)
 * [2. Ikhtisar](#2-Ikhtisar)
-* [3a. Run an Aleo Client Node](#3a-run-an-aleo-client-node)
-* [3b. Run an Aleo Mining Node](#3a-run-an-aleo-mining-node)
-* [4. FAQs](#4-faqs)
-* [5. Command Line Interface](#5-configuration-file)
-* [6. Development Guide](#6-development-guide)
-* [7. License](#7-license)
-
+* [3. Install Node](#3-Install Node)
 
 ##  1. Ikhtisar
 
