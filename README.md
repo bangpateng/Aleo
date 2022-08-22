@@ -43,18 +43,19 @@ sudo apt screen
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 ```
 
-## Clone Repository
-
-```
-git clone https://github.com/AleoHQ/snarkOS.git --depth 1 && cd snarkOS
-```
-
 ## Add Variable
 
 ```
 source $HOME/.cargo/env
 source $HOME/.cargo/bin
 ```
+
+## Clone Repository
+
+```
+git clone https://github.com/AleoHQ/snarkOS.git --depth 1 && cd snarkOS
+```
+
 
 ## Built (Butuh Waktu Sabar Aja)
 
