@@ -9,12 +9,6 @@
 
 # ALEO TESTNET INCENTIVIZED
 
-## <a name='Daftar Isi'></a>Daftar Isi
-
-* [1. Ikhtisar](#1-Ikhtisar)
-* [2. Ikhtisar](#2-Ikhtisar)
-* [3. Install Node](#3-Install Node)
-
 ##  1. Ikhtisar
 
 __snarkOS__ adalah sistem operasi terdesentralisasi untuk aplikasi pribadi. Ini membentuk tulang punggung [ Aleo ](https://aleo.org/) dan
