@@ -30,6 +30,7 @@ Berikut adalah persyaratan **minimum** untuk menjalankan node Aleo:
 ```
 sudo apt-get update
 sudo apt install git
+sudo apt screen
 ```
 
 ## Install Rupstup
@@ -52,6 +53,11 @@ source $HOME/.cargo/bin
 ```
 
 ## Run (Butuh Waktu Sabar Aja Tunggi Hingga 100% 1 Jaman)
+```
+screen -R aleo
+```
+
+Ketik CTRL A Agar Jalan di Screen Karena Lama Ini di Tahap Ini, Untuk Balik Screen Ketik `screen -Rd aleo`
 
 ```
 ./run-client.sh
