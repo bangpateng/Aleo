@@ -37,6 +37,12 @@ sudo apt install git
 sudo apt screen
 ```
 
+## Open Port
+
+```
+ufw allow 22 && ufw allow 4130/tcp && ufw status 4180/tcp && ufw enable
+```
+
 ## Install Rupstup
 
 ```
@@ -63,7 +69,7 @@ git clone https://github.com/AleoHQ/snarkOS.git --depth 1 && cd snarkOS
 ./build_ubuntu.sh
 ```
 
-## Run (Butuh Waktu Sabar Aja Tunggi Hingga 100% 1 Jaman)
+## Run (Butuh Waktu Sabar Aja Tunggi Hingga 100% 1 - 2 Jaman)
 ```
 screen -R aleo
 ```
@@ -74,10 +80,4 @@ Ketik CTRL A Agar Jalan di Screen Karena Lama Ini di Tahap Ini, Untuk Balik Scre
 ./run-client.sh
 ```
 
-## Create Wallet 
-
-```
-cargo run --release -- experimental new_account
-```
-
-**Harap ingat untuk menyimpan kunci pribadi akun dan kunci tampilan**
+### Done Untuk Saat Ini Hanya Client Saja Yang Jalan, Untuk Buat Wallet dan Runing Prover Next Step Tunggu Pharse 2 (Nanti Tutorial Ini Akan di Update, Bila Sudah Ada Pembaharuan)
