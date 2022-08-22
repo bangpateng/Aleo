@@ -29,7 +29,11 @@ Berikut adalah persyaratan **minimum** untuk menjalankan node Aleo:
 
 ```
 sudo apt-get update
+```
+```
 sudo apt install git
+```
+```
 sudo apt screen
 ```
 
