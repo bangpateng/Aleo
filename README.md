@@ -49,7 +49,7 @@ ufw allow 22 && ufw allow 4130/tcp && ufw allow 4180/tcp && ufw enable
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 ```
 
-## Add Variable
+## Add Path
 
 ```
 source $HOME/.cargo/env
